@@ -7,3 +7,4 @@ library(ggplot2)
 #no way
 #hmmmmmm ok ok ok
 #MAYBE FINALLY
+#IM FINALLY FREE I THINK
